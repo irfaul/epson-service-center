@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Places</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Angkasa Computer Center</string>
+			<key>Address</key>
+			<string>Malang, Jawa Timur</string>
+			<key>Image</key>
+			<string>epsonmalang</string>
+			<key>Phone</key>
+			<string>0341-351000, 323222</string>
+			<key>Latitude</key>
+			<string>-7.9640624096974975</string>
+			<key>Longitude</key>
+			<string>112.6254190843262</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Epson Service Center Denpasar</string>
+			<key>Address</key>
+			<string>Denpasar, Bali</string>
+			<key>Image</key>
+			<string>epsonbali</string>
+			<key>Phone</key>
+			<string>0361-3446699</string>
+			<key>Latitude</key>
+			<string>-8.682111205373308</string>
+			<key>Longitude</key>
+			<string>115.18860314014816</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Epson Service Center Bandung</string>
+			<key>Address</key>
+			<string>Bandung, Jawa Barat</string>
+			<key>Image</key>
+			<string>epsonbandung</string>
+			<key>Phone</key>
+			<string>022-4207033</string>
+			<key>Latitude</key>
+			<string>-6.902251862435631</string>
+			<key>Longitude</key>
+			<string>107.60444849419603</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>XYZ-Go Print</string>
+			<key>Address</key>
+			<string>Bekasi, Jawa Barat</string>
+			<key>Image</key>
+			<string>epsonbekasi</string>
+			<key>Phone</key>
+			<string>021-88354971</string>
+			<key>Latitude</key>
+			<string>-6.241253660134607</string>
+			<key>Longitude</key>
+			<string>106.9929252266448</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Epson Service Center Bogor</string>
+			<key>Address</key>
+			<string>Bogor, Jawa Barat</string>
+			<key>Image</key>
+			<string>epsonbogor</string>
+			<key>Phone</key>
+			<string>0251-8310026</string>
+			<key>Latitude</key>
+			<string>-6.570196027826682</string>
+			<key>Longitude</key>
+			<string>106.80903236897348</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Manxi Image Perkasa</string>
+			<key>Address</key>
+			<string>Solo, Jawa Tengah</string>
+			<key>Image</key>
+			<string>epsonsolo</string>
+			<key>Phone</key>
+			<string>0271-7462052, 085100092986</string>
+			<key>Latitude</key>
+			<string>-7.547427476882362</string>
+			<key>Longitude</key>
+			<string>110.77730078246887</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Epson Sales &amp; Service Semarang</string>
+			<key>Address</key>
+			<string>Semarang, Jawa Tengah</string>
+			<key>Image</key>
+			<string>epsonsemarang</string>
+			<key>Phone</key>
+			<string>024-8313807</string>
+			<key>Latitude</key>
+			<string>-7.004713044848462</string>
+			<key>Longitude</key>
+			<string>110.43296629781189</string>
+		</dict>
+	</array>
+</dict>
+</plist>
